@@ -14,10 +14,6 @@ overview plots for the galaxies analysed in the study.
 The source IDs used in the filenames correspond to those adopted throughout
 the paper.
 
-## Paper
-
-[Paper link / arXiv link]
-
 ## Data availability
 
 A versioned release of these materials is archived on Zenodo:
