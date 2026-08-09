@@ -26,8 +26,11 @@ A versioned release of these materials is archived on Zenodo:
 
 ## Citation
 
-If you use these data products, please cite the associated paper and the
-Zenodo release.
+If you use the data products in this repository, please cite the associated
+paper and this dataset:
+
+> Roberts, R. et al. (2026), "Sown at Cosmic Dawn: Searching for Pop III Signatures in JWST JADES He II Selected Line Emitters",
+> Zenodo: https://doi.org/10.5281/zenodo.XXXXXXX
 
 ## License
 
