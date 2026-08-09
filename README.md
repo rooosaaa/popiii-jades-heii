@@ -27,7 +27,9 @@ Zenodo release.
 
 ## License
 
-The supplementary figures and data products in this repository are released
-under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence.
+The original figures and derived data products provided in this repository
+are licensed under the Creative Commons Attribution 4.0 International
+(CC BY 4.0) licence.
 
-Please cite the associated paper and Zenodo release when using these materials.
+The underlying JWST observations and JADES data products are subject to
+their respective data policies and are not relicensed by this repository.
