@@ -24,3 +24,10 @@ A versioned release of these materials is archived on Zenodo:
 
 If you use these data products, please cite the associated paper and the
 Zenodo release.
+
+## License
+
+The supplementary figures and data products in this repository are released
+under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence.
+
+Please cite the associated paper and Zenodo release when using these materials.
